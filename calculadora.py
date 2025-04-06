@@ -22,7 +22,7 @@ elif op == 3:
     print(f"O resultado é: {result}")
 elif op == 4:
     if n2 != 0:
-        result = n1/n1
+        result = n1/n2
         print(f"O resultado é: {result}")
     else:
         print("Divisão por zero não é permitido")
